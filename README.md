@@ -1,5 +1,8 @@
 ***The entire course material is the property of Nvidia, I only added my notes!***
 
+
+* MY OFFICIAL CERTFICATE By NVIDIA FOR THIS COURSE : https://github.com/MortadhaMannai/Disaster-Risk-Monitoring-Using-Satellite-Imagery-and-Nvidia-Libraries/blob/main/Certificate%20c2c429ef5aa34623b7725cb4e6cdcfe5.pdf
+
 Table of contents:
 - [Disaster Risk Monitoring Using Satellite Imagery](https://github.com/gabboraron/Nvidia-Disaster_Risk_Monitoring_Using_Satellite_Imagery#disaster-risk-monitoring-using-satellite-imagery)
   - [Flood detection](https://github.com/gabboraron/Nvidia-Disaster_Risk_Monitoring_Using_Satellite_Imagery#flood-detection)
